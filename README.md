@@ -17,4 +17,18 @@ Lampy is a charming and interactive Flutter app that simulates a cozy study lamp
 
 ![Preview](assets/preview.png)
 
+---
+## 📦 APK Release
+
+You can download the latest APK from the [Releases](https://github.com/saif-pain/Lampy/releases) section.
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/saif-pain/lampy.git
+
+
 
